@@ -1,0 +1,1 @@
+#CodeCollab is a full-stack website providing a platform for developers to showcase, inspire, and collaborate with others for their projects
